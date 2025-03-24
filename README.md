@@ -1,4 +1,7 @@
-## Hi there 👋
+## Macaden Murrell
+
+Hello, I am Macaden Murrell.
+This GitHub is a collection of my personal projects.
 
 <!--
 **mmurrell1/mmurrell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
